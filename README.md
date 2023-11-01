@@ -1,5 +1,5 @@
 # College_Website_Clone
-## check out: 
+## [check out]()
 template used: https://www.free-css.com/free-css-templates/page291/elearning
 
 ## ScreenShots:
